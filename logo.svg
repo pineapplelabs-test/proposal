@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" width="200" height="220">
+  <!-- Pineapple body -->
+  <ellipse cx="100" cy="140" rx="55" ry="65" fill="#F5C518" stroke="#1a1a1a" stroke-width="2.5"/>
+  <!-- Diamond pattern -->
+  <path d="M60 110 Q80 100 100 110 Q120 100 140 110" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
+  <path d="M55 130 Q80 120 100 130 Q120 120 145 130" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
+  <path d="M55 150 Q80 140 100 150 Q120 140 145 150" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
+  <path d="M60 170 Q80 160 100 170 Q120 160 140 170" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
+  <path d="M70 190 Q85 180 100 190 Q115 180 130 190" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
+  <!-- Vertical curves -->
+  <path d="M80 95 Q78 140 82 195" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+  <path d="M100 90 Q98 140 100 200" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+  <path d="M120 95 Q122 140 118 195" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+  <!-- Leaves -->
+  <path d="M100 85 Q95 50 80 25" fill="#7BC67E" stroke="#2d8a30" stroke-width="2"/>
+  <path d="M100 85 Q90 45 70 30" fill="#4CAF50" stroke="#2d8a30" stroke-width="2"/>
+  <path d="M100 85 Q105 50 120 25" fill="#7BC67E" stroke="#2d8a30" stroke-width="2"/>
+  <path d="M100 85 Q110 45 130 30" fill="#4CAF50" stroke="#2d8a30" stroke-width="2"/>
+  <path d="M100 85 Q100 40 100 15" fill="#a8e6a3" stroke="#2d8a30" stroke-width="2"/>
+  <path d="M100 85 Q85 55 65 45" fill="#66BB6A" stroke="#2d8a30" stroke-width="1.5"/>
+  <path d="M100 85 Q115 55 135 45" fill="#66BB6A" stroke="#2d8a30" stroke-width="1.5"/>
+  <!-- Seeds -->
+  <circle cx="90" cy="120" r="2" fill="#c4960f"/>
+  <circle cx="110" cy="120" r="2" fill="#c4960f"/>
+  <circle cx="75" cy="140" r="2" fill="#c4960f"/>
+  <circle cx="100" cy="140" r="2" fill="#c4960f"/>
+  <circle cx="125" cy="140" r="2" fill="#c4960f"/>
+  <circle cx="85" cy="160" r="2" fill="#c4960f"/>
+  <circle cx="115" cy="160" r="2" fill="#c4960f"/>
+  <circle cx="95" cy="180" r="2" fill="#c4960f"/>
+  <circle cx="105" cy="180" r="2" fill="#c4960f"/>
+</svg>
